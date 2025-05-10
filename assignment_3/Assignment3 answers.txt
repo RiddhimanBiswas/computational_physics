@@ -1,0 +1,9 @@
+Assignment3_answers
+
+Q1
+Total magnetic moment = \sum s_i
+		      = (-1)*20**3
+		      = -8000
+		     
+Q2
+Total energy of the lattice = - J \sum_{nearest neighbours} s_i s_j

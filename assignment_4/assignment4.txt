@@ -1,0 +1,30 @@
+At x = 1.550:
+  Difference (y_actual - y_euler)     = 7.248122
+  Difference (y_actual - y_mod)       = 0.077537
+  Difference (y_actual - y_imp)       = 0.051765
+  Difference (y_actual - y_rk4)       = 0.028337
+  
+ q5, x=0.1, v=1.9
+ t=50s       -2.4031208066181056       0.37549360422217626
+ 
+ q6, x=0, v=1.999
+ t=50s       -2.3334226453994074      -0.78380837272168769
+ 
+ q7a, x=0, v=2.001
+ t=50s       33.769207058728234       0.77065842490188885
+ 
+ q7b, x=0, v=2.1
+ t=50s       63.329568080578532        2.0414091960850236
+ 
+ q8
+ The position of the 1st particle after 2000 iterations (t=40) is: -0.1189
+ 
+ q9
+ The value of y at x=0.8 is 0.43401560028211433 (Jacobi method)
+ The value of y at x=0.8 is 0.28147010284955554 (Gauss_Seidel method)
+ 
+ PDE
+ Dirichlet condition : Temperature at (20, 20): 1.7899564230337837
+ Neumann condition : Temperature at (10, 10): 1549.999973790622
+ 
+ 

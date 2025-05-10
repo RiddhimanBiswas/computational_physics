@@ -1,0 +1,59 @@
+  0.11216684543696231     
+  0.71511463134723863     
+  0.42686060821179883     
+  0.92229162916859120     
+  0.23261216553374542     
+  0.73422923886829095     
+  0.44359866815951599     
+   7.5591454186908491E-002
+   2.9571131467018064E-002
+  0.20003513197992195     
+Changing seed and generating 10 new random numbers
+  0.59826523757395278     
+  0.63781319538882331     
+  0.26459046720732249     
+  0.11353331365951236     
+  0.56545226248266911     
+  0.77808606732445573     
+  0.16385423814212996     
+  0.60215000560672760     
+  0.60493045159018755     
+  0.21170757605752066     
+ Now calculating average of 10 random numbers
+  0.39678708329055146     
+ Now calculating average of 100 random numbers
+  0.48797061835782890     
+ Now calculating average of 10000 random numbers
+  0.49649615207017389     
+ Now calculating average of 1000000 random numbers
+  0.50021984427246369     
+ Now calculating average of 100 random numbers
+  0.51065060068087442     
+ The absolute difference from 0.50
+   1.0650600680874422E-002
+ Now calculating average of 10000 random numbers
+  0.50392113081422207     
+ The absolute difference from 0.50
+   3.9211308142220735E-003
+ Now calculating average of 1000000 random numbers
+  0.49955763455498281     
+ The absolute difference from 0.50
+   4.4236544501718988E-004
+ Now calculating average of 100 random numbers
+  0.53146394663153851     
+ Now calculating average of 10000 random numbers
+  0.50204701245785888     
+ Now calculating average of 1000000 random numbers
+  0.49978831669900575     
+ Now calculating average of 100 random numbers
+  0.49930157367496342     
+ The absolute difference from 0.50
+   6.9842632503658297E-004
+ Now calculating average of 10000 random numbers
+  0.49668111182621721     
+ The absolute difference from 0.50
+   3.3188881737827858E-003
+ Now calculating average of 1000000 random numbers
+  0.50006208813463593     
+ The absolute difference from 0.50
+   6.2088134635929215E-005
