@@ -19,4 +19,4 @@ Peer groups encouraged to do extra analysis other than mentioned in the question
 
 Important Notes:
 - Assignment 5 here is assignment 7 of the website. Assignment 5 of the website was skipped in class due to time constraints.
-- Assignment 6 just has the code. Images haven't been saved, but one could use the .py codes
+- Assignment 6 has a base code and appropriate images. Please change the variables appropriately for the assignment.
