@@ -12,7 +12,7 @@ The assignments cover the following topics:
 
 Each folder is structured as follows:
 - .f90 files containing the codes for the questions. They are either named after questions or named appropriately.
-- python_assignment$number$ : These folders contain the .py files for analysing the raw data and producing required images to be shown during viva.
+- python_assignment$number$ : These folders contain the .py files for analysing the raw data and producing required images to be shown during viva. Some of these plotting code were written with assistance of automated code generation tools and were reviewed and adapted as required.
 - images_assignment$number$ : These folders contain the images to be shown with the exception of assignment 3, whose final images could be found in final_images folder.
 
 Peer groups encouraged to do extra analysis other than mentioned in the question to understand better. These are included along with the answers to the required questions.
