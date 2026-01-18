@@ -1,6 +1,6 @@
 These are FORTRAN codes written for the assignments in the course PH3264 Computational Physics offered in IISER Pune.
 Please refer to the website: https://apratimchatterji.wixsite.com/apratim/computational-physics-nptel-videos
-The website contains links to the assignments which have been solved.
+The website contains links to the assignments which have been solved. The folder "assignment_questions" contains the assignment questions too in case of website updation.
 
 The assignments cover the following topics:
 1. Assignment 1 : Introduction to FORTRAN - Random Number Generation and Random Walks.
@@ -19,4 +19,5 @@ Peer groups encouraged to do extra analysis other than mentioned in the question
 
 Important Notes:
 - Assignment 5 here is assignment 7 of the website. Assignment 5 of the website was skipped in class due to time constraints.
+- No questions were assigned for assignment 5, hence it was largely exploratory.
 - Assignment 6 has a base code and appropriate images. Please change the variables appropriately for the assignment.
